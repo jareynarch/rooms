@@ -1,0 +1,74 @@
+{
+    "Room 1": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 2": {
+        "status": "OCCUPIED",
+        "instructor": "uncle dags",
+        "subject": "orgimal",
+        "time_in": "03:36 PM"
+    },
+    "Room 3": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 4": {
+        "status": "OCCUPIED",
+        "instructor": "maria alexis bayang",
+        "subject": "pathfit",
+        "time_in": "02:24 PM"
+    },
+    "Room 5": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 6": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 7": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 8": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 9": {
+        "status": "OCCUPIED",
+        "instructor": "polin ald alc",
+        "subject": "math",
+        "time_in": "02:27 PM"
+    },
+    "Room 10": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 11": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    },
+    "Room 12": {
+        "status": "VACANT",
+        "instructor": "None",
+        "subject": "None",
+        "time_in": "None"
+    }
+}
